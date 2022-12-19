@@ -2,6 +2,8 @@
 
 # Fetch Rewards Back-end Take home assessment
 
+Language: Go
+
 # API endpoints
 
   POST /receipts/process
